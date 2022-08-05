@@ -1,0 +1,35 @@
+<!Doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css"/>
+<link rel="icon" href="logos.png" type="image/x-icon">
+<title>Duckbuilt</title>
+</head>
+<body a style="background-image:url(https://static.vecteezy.com/system/resources/previews/003/525/648/large_2x/simple-abstract-brown-aesthetic-pattern-background-free-vector.jpg);background-repeat:no-repeat;background-size:auto;" >
+<header >
+<a href="website.html">
+<img src="logo1.png" alt="Duckbuilt" title="Duckbuilt">
+</a>
+</header>
+<hr class="hrstil">
+<nav>
+<div>
+<table style="width:100%" cellspacing="1" cellpadding="1">
+<tr>
+<th><a href="Homepage.html"><img src="Home.png" style="display:block;" width="100%" height="100%" class="img"></a></td>
+<th><a href="Search for a house.html"><img src="Searchforahouse.png" style="display:block;" width="100%" height="100%" class="img"></a></td>
+<th><a href="Search for lands.html"><img src="Searchforlands.png" style="display:block;" width="100%" height="100%" class="img"></a></td>
+<th><a href="Build your own house.html"><img src="Buildyourownhouse.png" style="display:block;" width="100%" height="100%" class="img"></a></td>
+<th><a href="Contacts and affiliates.html"><img src="Contactsandaffiliates.png" style="display:block;" width="100%" height="100%" class="img"></a></td>
+</tr>
+</table>
+</div>
+</nav>
+<hr class="hrstil" >
+<a href="rev.html"><img src="houses1.png" class="imgtext"></a>
+<a href="rev.html"><img src="houses2.png" class="imgtext"></a>
+<b><h1 style="color:#1A0701" class="textfirst">Thank you for your submission!</h1>
+<p style="color:#51311A" class="textsec">We will contact you via e-mail when the design is ready.</p>
+
+</body>
+</html>
