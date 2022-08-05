@@ -1,0 +1,184 @@
+*{
+font-family:'Trebuchet MS';
+
+}
+
+ td {
+  border: 1px solid;
+}
+ul{
+  list-style: square url("https://media2.giphy.com/media/65EX15812M3vU2U50A/giphy.gif?cid=790b7611617dab203b2668662603a7b327599ce63f269ed0&rid=giphy.gif&ct=g");
+ }
+
+body{
+margin: 0px;
+padding: 0px;
+}
+
+.img{
+transition: transform 1s;
+}
+
+.img:hover{
+transform: scale(1.25);
+box-shadow: 2px 2px 5px grey, -2px -2px 5px grey;
+
+position:relative;
+}
+
+.hrstil{
+height:12px;
+border:0;
+box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+position:relative;
+overflow hidden;
+
+
+}
+
+.imgtext{
+float: right;
+margin: 0 15px 0 0;
+position:relative;
+right: 4%;
+overflow:hidden;
+
+}
+
+.textfirst{
+
+margin: 15px 0 20px;
+position: relative;
+font-size: 80px;
+left:3%;
+overflow:hidden;
+
+}
+
+.textsec{
+
+margin: 15px 0 20px;
+position: relative;
+font-size: 40px;
+left:1%;
+overflow:hidden;
+}
+.butonc{
+
+text-decoration: none;
+border: 1px solid #1A0701;
+padding: 12px 34px;
+font-size: 35px;
+background: #1A0701;
+position:relative;
+cursor:pointer;
+left:3%;
+top: 80px;
+text-align: center;
+opacity:0.7;
+transition:0.3s;
+color: #A47451;
+overflow:hidden;
+}
+.butonc:hover{
+opacity:1;
+}
+.imghouse{
+float: left;
+margin: 0 15px 0 0;
+position:relative;
+right: 4%;
+width: 700px;
+height: 500px;
+overflow:hidden;
+}
+.buton1{
+
+text-decoration: none;
+border: 1px solid #1A0701;
+padding: 12px 34px;
+font-size: 20px;
+background: #1A0701;
+position:relative;
+cursor:pointer;
+left:5%;
+top: 80px;
+text-align: center;
+opacity:0.7;
+transition:0.3s;
+color: #A47451;
+overflow:hidden;
+}
+.buton1:hover{
+opacity:1;
+}
+
+.imgf{
+transition: transform 1s;
+overflow:hidden;
+position: relative;
+left: 40%;
+}
+
+.imgf:hover{
+transform: scale(1.25);
+box-shadow: 2px 2px 5px grey, -2px -2px 5px grey;
+
+
+}
+
+.imga{
+transition: transform 1s;
+overflow:hidden;
+position: relative;
+left:10%;
+height:200px;
+width:450px;
+overflow:hidden;
+}
+
+.imga:hover{
+transform: scale(1.25);
+box-shadow: 2px 2px 5px grey, -2px -2px 5px grey;
+
+
+}
+
+.rev{
+
+position: relative;
+font-size: 25px;
+left:1%;
+overflow:hidden;
+}
+
+.imgsub{
+float: right;
+margin: 0 15px 0 0;
+position:relative;
+right: 4%;
+overflow:hidden;
+height:200px;
+width:250px;
+
+}
+
+footer{
+text-align:center;
+padding:1px;
+color:black;
+bottom:0;
+position:fixed;
+width:100%;
+box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+}
+.tabelul{
+position:relative;
+margin-top:210px;
+border: 1px solid black;
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+overflow:hidden;
+
+}
